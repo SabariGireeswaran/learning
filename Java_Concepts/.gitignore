@@ -1,0 +1,7 @@
+# Ignore compiled Java class files and common IDE/build folders
+*.class
+/bin/
+/build/
+/.idea/
+/.vscode/
+*.log
